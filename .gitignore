@@ -1,0 +1,6 @@
+/cache
+/downloads
+.env
+.DS_Store
+
+notebooks_x
